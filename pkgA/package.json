@@ -1,0 +1,9 @@
+{
+    "name": "pkgA",
+    "version": "3.0.0",
+    "dependencies": {
+	    "pkgB": "3.0.0"
+    },
+    "type": "module",
+    "main": "a.js"
+}
